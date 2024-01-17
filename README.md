@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Test if two arguments both [Float64Arrays][@stdlib/array/float64] and have the [same values][@stdlib/assert/is-same-value].
+> Test if two arguments are both [Float64Arrays][@stdlib/array/float64] and have the [same values][@stdlib/assert/is-same-value].
 
 <section class="installation">
 
