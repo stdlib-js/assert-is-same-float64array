@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameFloat64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-float64array@deno/mod.js';
+import isSameFloat64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-float64array@v0.2.2-deno/mod.js';
 ```
 
 #### isSameFloat64Array( v1, v2 )
@@ -83,7 +83,7 @@ bool = isSameFloat64Array( x, [ 1.0, 2.0 ] );
 
 ```javascript
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import isSameFloat64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-float64array@deno/mod.js';
+import isSameFloat64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-float64array@v0.2.2-deno/mod.js';
 
 var x = new Float64Array( [ 1.0, 2.0, 3.0 ] );
 var y = new Float64Array( [ 1.0, 2.0, 3.0 ] );
