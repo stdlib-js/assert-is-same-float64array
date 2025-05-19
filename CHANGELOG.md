@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-05-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6a430d7`](https://github.com/stdlib-js/stdlib/commit/6a430d7465fae0732b6dfdb13cc5e89c7b6ded2a) - **refactor:** consolidate into a single line _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
